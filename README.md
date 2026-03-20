@@ -1,7 +1,6 @@
 Important Blogs : https://dev.to/hamluk/extending-pydantic-ai-agents-with-dependencies-adding-context-to-your-ai-agents-3f8o, https://szeyusim.medium.com/a-comprehensive-guide-on-agent-development-with-pydantic-ai-beginner-to-advanced-12d90e0ba1a6, https://docs.pydantic.dev/latest/
 
 
-
 # AI Agent with PydanticAI
 
 A Jupyter notebook demonstrating how to build a structured AI agent using [PydanticAI](https://docs.pydantic.dev/latest/concepts/pydantic_ai/) — a framework that combines Pydantic's powerful data validation with AI model integrations.
